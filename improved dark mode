@@ -489,3 +489,12 @@ form.verbose legend {
 .thread .even {
 background: #464254;
 }
+
+.post .required .warnings {
+color: #feedeb;
+}
+
+.draft,
+.draft .wrapper {
+  background: #322e41;
+}

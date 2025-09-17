@@ -188,6 +188,7 @@
 }
 
 .actions li input,
+.actions button,
 .actions li input[type="submit"],
 .actions a,
 .actions a:link,
